@@ -26,7 +26,7 @@ One of the best aspects of this project is that it brings together multiple real
 
 Overall, this task helped me explore the complete cycle of data flow — from data acquisition to data presentation — all within a simple Python environment. It taught me how to connect external services with my own programs, and how to transform raw data into something that end users can understand and benefit from. The result is a lightweight yet powerful weather dashboard that can be further expanded with features like historical data tracking, temperature trend graphs, or even machine learning forecasts in the future.
 
-This task has significantly contributed to my understanding of API usage, data processing, and visualization principles — three fundamental areas for any data-driven application or career in data science, machine learning, or software development.
+I have made this project with the help of resources from Google, Youtube & Chatgpt. This task has significantly contributed to my understanding of API usage, data processing, and visualization principles — three fundamental areas for any data-driven application or career in data science, machine learning, or software development.
 
 *OUTPUT* 
 

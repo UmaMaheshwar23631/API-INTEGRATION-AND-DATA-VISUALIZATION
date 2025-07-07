@@ -12,7 +12,7 @@
 
 *MENTOR* : NEELA SANTOSH
 
-*From API to Insight: Visualizing Weather in Real Time*
+                                                                     *FROM API TO INSIGHT : VISUALIZING WEATHER IN REAL TIME*
 
 As part of my internship, Task 1 involved building a Python-based application that demonstrates the integration of an external API with data visualization. The goal was to fetch real-time weather data from a public API and use that data to create insightful visualizations using popular Python libraries like matplotlib and seaborn. This task helped me strengthen my practical skills in working with APIs, JSON data, and plotting tools in Python.
 
@@ -27,3 +27,9 @@ One of the best aspects of this project is that it brings together multiple real
 Overall, this task helped me explore the complete cycle of data flow — from data acquisition to data presentation — all within a simple Python environment. It taught me how to connect external services with my own programs, and how to transform raw data into something that end users can understand and benefit from. The result is a lightweight yet powerful weather dashboard that can be further expanded with features like historical data tracking, temperature trend graphs, or even machine learning forecasts in the future.
 
 This task has significantly contributed to my understanding of API usage, data processing, and visualization principles — three fundamental areas for any data-driven application or career in data science, machine learning, or software development.
+
+*OUTPUT* 
+
+<img width="1890" height="907" alt="Image" src="https://github.com/user-attachments/assets/8764c2bc-5e15-4e30-86ee-a3a9baafaf5e" />
+<img width="1098" height="872" alt="Image" src="https://github.com/user-attachments/assets/5b07c749-caa4-4393-bd50-09e294c1a913" />
+<img width="1012" height="906" alt="Image" src="https://github.com/user-attachments/assets/2177fdea-175d-4794-ba0e-49465d8199c6" />
